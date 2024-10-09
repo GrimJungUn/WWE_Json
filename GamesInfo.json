@@ -1,0 +1,274 @@
+[
+    {
+        "IsCompressed": false,
+        "Game": "Smackdown Vs. Raw 2010",
+        "DataBlocks": [
+            {
+                "Arrayname": "Unknown_Data",
+                "Bytes": 12
+            },
+            {
+                "Arrayname": "Save_Checksum",
+                "StartOffset": 32,
+                "EndOffset": 24,
+                "Bytes": 885252
+            },
+            {
+                "Arrayname": "Save_Block_1",
+                "StartOffset": 28,
+                "Bytes": 675536,
+                "SubBlocks": [
+                    {
+                        "Arrayname": "Save_Block_1_Wrestler_Pofo_1",
+                        "StartOffset": 0,
+                        "EndOffset": 55380,
+                        "Bytes": 260,
+                        "Block": 1
+                    },
+                    {
+                        "Arrayname": "Save_Block_1_Stable_Pofo",
+                        "StartOffset": 55640,
+                        "EndOffset": 62452,
+                        "Bytes": 262,
+                        "Block": 1
+                    },
+                    {
+                        "Arrayname": "Save_Block_1_Caw_Pofo_1",
+                        "StartOffset": 62716,
+                        "EndOffset": 307127,
+                        "Bytes": 260,
+                        "Block": 1
+                    },
+                    {
+                        "Arrayname": "Save_Block_1_Caw_Pofo_2",
+                        "StartOffset": 62976,
+                        "EndOffset": 67684,
+                        "Bytes": 4728,
+                        "Block": 1
+                    }
+                ]
+            },
+            {
+                "Arrayname": "Save_Block_2",
+                "StartOffset": 675564,
+                "Bytes": 209700,
+                "SubBlocks": [
+                    {
+                        "Arrayname": "Save_Block_2_Wrestler_Pofo_2",
+                        "StartOffset": 12,
+                        "EndOffset": 198528,
+                        "Bytes": 932,
+                        "Block": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "IsCompressed": false,
+        "Game": "Smackdown Vs. Raw 2011",
+        "DataBlocks": [
+            {
+                "Arrayname": "Unknown_Data",
+                "Bytes": 12
+            },
+            {
+                "Arrayname": "Save_Checksum",
+                "StartOffset": 28,
+                "EndOffset": 24,
+                "Bytes": 4243428
+            },
+            {
+                "Arrayname": "Save_Block_1",
+                "StartOffset": 28,
+                "Bytes": 246100,
+                "SubBlocks": [
+                    {
+                        "Arrayname": "Save_Block_1_Wrestler_Pofo_1",
+                        "StartOffset": 0,
+                        "EndOffset": 62660,
+                        "Bytes": 260,
+                        "Block": 1
+                    },
+                    {
+                        "Arrayname": "Save_Block_1_Stable_Pofo",
+                        "StartOffset": 62920,
+                        "EndOffset": 81550,
+                        "Bytes": 270,
+                        "Block": 1
+                    },
+                    {
+                        "Arrayname": "Save_Block_1_Caw_Pofo_1",
+                        "StartOffset": 81820,
+                        "EndOffset": 166296,
+                        "Bytes": 260,
+                        "Block": 1
+                    },
+                    {
+                        "Arrayname": "Save_Block_1_Caw_Pofo_2",
+                        "StartOffset": 82080,
+                        "EndOffset": 83544,
+                        "Bytes": 1464,
+                        "Block": 1
+                    }
+                ]
+            },
+            {
+                "Arrayname": "Save_Block_2",
+                "StartOffset": 246128,
+                "Bytes": 282960,
+                "SubBlocks": [
+                    {
+                        "Arrayname": "Save_Block_2_Wrestler_Pofo_2",
+                        "StartOffset": 0,
+                        "EndOffset": 254496,
+                        "Bytes": 1056,
+                        "Block": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "IsCompressed": false,
+        "Game": "WWE '12",
+        "DataBlocks": [
+            {
+                "Arrayname": "Unknown_Data",
+                "Bytes": 12
+            },
+            {
+                "Arrayname": "Save_Checksum",
+                "StartOffset": 28,
+                "EndOffset": 24,
+                "Bytes": 713501
+            },
+            {
+                "Arrayname": "Save_Block_1",
+                "StartOffset": 28,
+                "Bytes": 324752,
+                "SubBlocks": [
+                    {
+                        "Arrayname": "Save_Block_1_Wrestler_Pofo_1",
+                        "StartOffset": 0,
+                        "EndOffset": 92092,
+                        "Bytes": 286,
+                        "Block": 1
+                    },
+                    {
+                        "Arrayname": "Save_Block_1_Stable_Pofo",
+                        "StartOffset": 92378,
+                        "EndOffset": 112802,
+                        "Bytes": 296,
+                        "Block": 1
+                    },
+                    {
+                        "Arrayname": "Save_Block_1_Caw_Pofo_1",
+                        "StartOffset": 113100,
+                        "EndOffset": 202868,
+                        "Bytes": 286,
+                        "Block": 1
+                    },
+                    {
+                        "Arrayname": "Save_Block_1_Caw_Pofo_2",
+                        "StartOffset": 113386,
+                        "EndOffset": 203154,
+                        "Bytes": 1546,
+                        "Block": 1
+                    }
+                ]
+            },
+            {
+                "Arrayname": "Save_Block_2",
+                "StartOffset": 324780,
+                "Bytes": 388752,
+                "SubBlocks": [
+                    {
+                        "Arrayname": "Save_Block_2_Wrestler_Pofo_2",
+                        "StartOffset": 0,
+                        "EndOffset": 343896,
+                        "Bytes": 1068,
+                        "Block": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "IsCompressed": false,
+        "Game": "WWE '13",
+        "DataBlocks": [
+            {
+                "Arrayname": "Unknown_Data",
+                "Bytes": 12
+            },
+            {
+                "Arrayname": "Save_Checksum",
+                "StartOffset": 28,
+                "EndOffset": 24,
+                "Bytes": 1181792
+            },
+            {
+                "Arrayname": "Save_Block_1",
+                "StartOffset": 28,
+                "Bytes": 584084,
+                "SubBlocks": [
+                    {
+                        "Arrayname": "Save_Block_1_Wrestler_Pofo_1",
+                        "StartOffset": 0,
+                        "EndOffset": 143680,
+                        "Bytes": 320,
+                        "Block": 1
+                    },
+                    {
+                        "Arrayname": "Save_Block_1_Stable_Pofo",
+                        "StartOffset": 144000,
+                        "EndOffset": 164424,
+                        "Bytes": 296,
+                        "Block": 1
+                    },
+                    {
+                        "Arrayname": "Save_Block_1_Caw_Pofo_1",
+                        "StartOffset": 164720,
+                        "EndOffset": 261348,
+                        "Bytes": 320,
+                        "Block": 1
+                    },
+                    {
+                        "Arrayname": "Save_Block_1_Caw_Pofo_2",
+                        "StartOffset": 165040,
+                        "EndOffset": 261668,
+                        "Bytes": 1652,
+                        "Block": 1
+                    }
+                ]
+            },
+            {
+                "Arrayname": "Save_Block_2",
+                "StartOffset": 584112,
+                "Bytes": 597712,
+                "SubBlocks": [
+                    {
+                        "Arrayname": "Save_Block_2_Wrestler_Pofo_2",
+                        "StartOffset": 0,
+                        "EndOffset": 528024,
+                        "Bytes": 1176,
+                        "Block": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "IsCompressed": true,
+        "Game": "WWE 2K14"
+    },
+    {
+        "IsCompressed": true,
+        "Game": "WWE 2K16"
+    },
+    {
+        "IsCompressed": true,
+        "Game": "WWE 2K17"
+    }
+]
